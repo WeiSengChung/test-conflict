@@ -1,3 +1,4 @@
 test123addNewLineInLocal
 addNewLineInRemoteRepo
 test1
+test2
