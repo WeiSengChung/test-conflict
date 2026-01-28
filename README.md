@@ -1,2 +1,1 @@
-test123
-addNewLineInLocal
+test123addNewLineInLocal
